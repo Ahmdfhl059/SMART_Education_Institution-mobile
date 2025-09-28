@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302043169588",
+    "project_id": "smart-app-29aa4",
+    "storage_bucket": "smart-app-29aa4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302043169588:android:c24e1c7c48eb55c8299b61",
+        "android_client_info": {
+          "package_name": "com.example.smart_education_institution_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0mtf0oxRZhXdu9NC_uOect38vKFjGEos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
