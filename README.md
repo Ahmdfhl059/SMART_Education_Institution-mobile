@@ -27,21 +27,21 @@ This project was part of a collaborative academic effort involving a team of 5 m
 **Design Philosophy:** Focused on creating an intuitive, user-centered interface that addresses real-world educational management challenges.
 
 ## 📁 Repository Structure
-'/lib/logic' - Business Logic Components for state management.
+'''/lib/logic''' - Business Logic Components for state management.
 
-'/lib/data/models' - Data models representing educational entities.
+'''/lib/data/models''' - Data models representing educational entities.
 
-'/lib/views' - UI components and screen layouts.
+'''/lib/views''' - UI components and screen layouts.
 
-'/lib/data/api' - API service calls using Dio.
+'''/lib/data/api''' - API service calls using Dio.
 
-'/lib/utils/dio_methods' -Contains dio_methods.dart for base configurations and utility methods
+'''/lib/utils/dio_methods''' -Contains dio_methods.dart for base configurations and utility methods
 
 ## 🤝 Collaboration
 This project demonstrates my ability to:
 
-*Work within a cross-functional team (Frontend & Backend).*
+Work within a cross-functional team (Frontend & Backend).
 
-*Translate stakeholder requirements into functional software features.*
+Translate stakeholder requirements into functional software features.
 
-*Manage development lifecycles independently under tight deadlines.*
+Manage development lifecycles independently under tight deadlines.
