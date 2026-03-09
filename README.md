@@ -27,13 +27,15 @@ Challenges & Execution: Despite team-based complexities, I took full responsibil
 Design Philosophy: Focused on creating an intuitive, user-centered interface that addresses real-world educational management challenges.
 
 📁 Repository Structure
-/lib/bloc - Business Logic Components for state management.
+/lib/logic - Business Logic Components for state management.
 
-/lib/models - Data models representing educational entities.
+/lib/data/models - Data models representing educational entities.
 
 /lib/views - UI components and screen layouts.
 
-/lib/services - API service calls using Dio.
+/lib/data/api - API service calls using Dio.
+
+/lib/utils/dio_methods -Contains dio_methods.dart for base configurations and utility methods
 
 🤝 Collaboration
 This project demonstrates my ability to:
